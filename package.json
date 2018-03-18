@@ -1,0 +1,25 @@
+{
+  "name": "webshop_template",
+  "version": "0.0.1",
+  "description": "Template for a webshop project without payment module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhoumann87/webshop_template.git"
+  },
+  "keywords": [
+    "webshop",
+    "php",
+    "node",
+    "oop"
+  ],
+  "author": "Michael Houmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhoumann87/webshop_template/issues"
+  },
+  "homepage": "https://github.com/mhoumann87/webshop_template#readme"
+}
